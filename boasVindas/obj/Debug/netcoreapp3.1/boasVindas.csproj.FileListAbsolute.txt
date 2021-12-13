@@ -1,0 +1,16 @@
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.exe
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.deps.json
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.runtimeconfig.json
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.runtimeconfig.dev.json
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.dll
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\bin\Debug\netcoreapp3.1\boasVindas.pdb
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.csproj.AssemblyReference.cache
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.frm_aula_1.resources
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.csproj.GenerateResource.cache
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.AssemblyInfoInputs.cache
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.AssemblyInfo.cs
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.csproj.CoreCompileInputs.cache
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.dll
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.pdb
+C:\Users\bruno.ferri\source\repos\boasVindas\boasVindas\obj\Debug\netcoreapp3.1\boasVindas.genruntimeconfig.cache
